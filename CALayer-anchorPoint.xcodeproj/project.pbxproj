@@ -14,6 +14,7 @@
 		69F40FE61B2065AD00B2DFD0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69F40FE51B2065AD00B2DFD0 /* Images.xcassets */; };
 		69F40FE91B2065AD00B2DFD0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 69F40FE71B2065AD00B2DFD0 /* LaunchScreen.xib */; };
 		69F40FF51B2065AD00B2DFD0 /* CALayer_anchorPointTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 69F40FF41B2065AD00B2DFD0 /* CALayer_anchorPointTests.m */; };
+		69F40FFF1B206BB100B2DFD0 /* bgView.png in Resources */ = {isa = PBXBuildFile; fileRef = 69F40FFE1B206BB100B2DFD0 /* bgView.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		69F40FEE1B2065AD00B2DFD0 /* CALayer-anchorPointTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CALayer-anchorPointTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		69F40FF31B2065AD00B2DFD0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		69F40FF41B2065AD00B2DFD0 /* CALayer_anchorPointTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CALayer_anchorPointTests.m; sourceTree = "<group>"; };
+		69F40FFE1B206BB100B2DFD0 /* bgView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bgView.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				69F40FE01B2065AD00B2DFD0 /* ViewController.m */,
 				69F40FE21B2065AD00B2DFD0 /* Main.storyboard */,
 				69F40FE51B2065AD00B2DFD0 /* Images.xcassets */,
+				69F40FFE1B206BB100B2DFD0 /* bgView.png */,
 				69F40FE71B2065AD00B2DFD0 /* LaunchScreen.xib */,
 				69F40FD81B2065AD00B2DFD0 /* Supporting Files */,
 			);
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				69F40FE41B2065AD00B2DFD0 /* Main.storyboard in Resources */,
+				69F40FFF1B206BB100B2DFD0 /* bgView.png in Resources */,
 				69F40FE91B2065AD00B2DFD0 /* LaunchScreen.xib in Resources */,
 				69F40FE61B2065AD00B2DFD0 /* Images.xcassets in Resources */,
 			);
